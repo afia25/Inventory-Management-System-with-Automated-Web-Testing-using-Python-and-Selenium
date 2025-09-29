@@ -53,6 +53,33 @@ of users: admin, customer and employee.
 #### Adding Customer Details Form
 <p align="center"><img src="./img/customer/customer_info1.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
 <p align="center"><img src="./img/customer/customer_info2.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<br>
+
+### Employee
+<p align="center"><img src="./img/employee/emp_work.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+
+#### Creating New Invoice Form
+<p align="center"><img src="./img/employee/creating_invoice1.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/employee/creating_invoice2.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+
+#### All Invoice List and Delete Invoice
+<p align="center"><img src="./img/employee/all_invoice_list_and_del_invoice.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+
+#### Sales Report
+<p align="center"><img src="./img/employee/sales_report1.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/employee/sales_report2.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+
+#### Due Report
+<p align="center"><img src="./img/employee/due_report1.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/employee/due_report2.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/employee/due_report3.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+
+#### Out of Stockn Product
+<p align="center"><img src="./img/employee/out_of_stock_product1.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/employee/out_of_stock_product2.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/employee/out_of_stock_product3.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+
+
 
 
 
