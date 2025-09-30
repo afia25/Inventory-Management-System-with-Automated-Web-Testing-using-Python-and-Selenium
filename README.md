@@ -50,13 +50,13 @@ of users: admin, customer and employee.
 
 #### Adding Customer Details Form
 <p align="center"><img src="./img/customer/customer_info1.jpg" alt="App Screenshot" style="height:260px; width:auto;"></p>
-<p align="center"><img src="./img/customer/customer_info2.jpg" alt="App Screenshot" style="height:172px; width:auto;"></p>
+<p align="center"><img src="./img/customer/customer_info2.jpg" alt="App Screenshot" style="height:173px; width:auto;"></p>
 
 ### Employee
 <p align="center"><img src="./img/employee/emp_work.jpg" alt="App Screenshot" style="height:280px; width:auto;"></p>
 
 #### Creating New Invoice Form
-<p align="center"><img src="./img/employee/creating_invoice1.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/employee/creating_invoice1.jpg" alt="App Screenshot" style="height:270px; width:auto;"></p>
 <p align="center"><img src="./img/employee/creating_invoice2.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
 
 #### All Invoice List and Delete Invoice
