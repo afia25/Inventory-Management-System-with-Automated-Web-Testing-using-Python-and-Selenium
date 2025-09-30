@@ -49,8 +49,8 @@ of users: admin, customer and employee.
 <p align="center"><img src="./img/customer/buy_food.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
 
 #### Adding Customer Details Form
-<p align="center"><img src="./img/customer/customer_info1.jpg" alt="App Screenshot" style="height:280px; width:auto;"></p>
-<p align="center"><img src="./img/customer/customer_info2.jpg" alt="App Screenshot" style="height:200px; width:auto;"></p>
+<p align="center"><img src="./img/customer/customer_info1.jpg" alt="App Screenshot" style="height:260px; width:auto;"></p>
+<p align="center"><img src="./img/customer/customer_info2.jpg" alt="App Screenshot" style="height:170px; width:auto;"></p>
 
 ### Employee
 <p align="center"><img src="./img/employee/emp_work.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
