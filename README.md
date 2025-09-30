@@ -24,7 +24,6 @@ of users: admin, customer and employee.
 
 #### Log Out
 <p align="center"><img src="./img/all/log_out.jpg" alt="App Screenshot" style="height:220px; width:auto;"></p>
-<br>
 
 ### Admin
 <p align="center"><img src="./img/admin/admin_work.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
@@ -35,14 +34,13 @@ of users: admin, customer and employee.
 
 #### Stock Report
 <p align="center"><img src="./img/admin/stock_report.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
-<br>
 
 ### Customer
 #### Buy Products
-<p align="center"><img src="./img/customer/buy_products.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/customer/buy_products.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
 #### Buy Clothes
-<p align="center"><img src="./img/customer/buy_clothes.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/customer/buy_clothes.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
 #### Buy Electronics
 <p align="center"><img src="./img/customer/buy_electronics.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
@@ -53,7 +51,6 @@ of users: admin, customer and employee.
 #### Adding Customer Details Form
 <p align="center"><img src="./img/customer/customer_info1.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
 <p align="center"><img src="./img/customer/customer_info2.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
-<br>
 
 ### Employee
 <p align="center"><img src="./img/employee/emp_work.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
