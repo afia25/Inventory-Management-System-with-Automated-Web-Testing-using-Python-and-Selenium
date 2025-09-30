@@ -37,10 +37,10 @@ of users: admin, customer and employee.
 
 ### Customer
 #### Buy Products
-<p align="center"><img src="./img/customer/buy_products.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/customer/buy_products.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
 
 #### Buy Clothes
-<p align="center"><img src="./img/customer/buy_clothes.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/customer/buy_clothes.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
 
 #### Buy Electronics
 <p align="center"><img src="./img/customer/buy_electronics.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
