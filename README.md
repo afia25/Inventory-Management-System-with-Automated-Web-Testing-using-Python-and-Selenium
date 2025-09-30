@@ -9,7 +9,7 @@ of users: admin, customer and employee.
 <p align="center"><img src="./img/all/login2.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
 #### Registration form for new users
-<p align="center"><img src="./img/all/reg1.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/all/reg1.jpg" alt="App Screenshot" style="height:390px; width:auto;"></p>
 <p align="center"><img src="./img/all/reg2.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
 
 #### Front Page
