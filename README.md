@@ -10,10 +10,10 @@ of users: admin, customer and employee.
 
 #### Registration form for new users
 <p align="center"><img src="./img/all/reg1.jpg" alt="App Screenshot" style="height:380px; width:auto;"></p>
-<p align="center"><img src="./img/all/reg2.jpg" alt="App Screenshot" style="height:155px; width:auto;"></p>
+<p align="center"><img src="./img/all/reg2.jpg" alt="App Screenshot" style="height:152px; width:auto;"></p>
 
 #### Front Page
-<p align="center"><img src="./img/all/frontpg.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/all/frontpg.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
 
 #### Update Profile
 <p align="center"><img src="./img/all/update_profile.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
