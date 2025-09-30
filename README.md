@@ -64,10 +64,10 @@ of users: admin, customer and employee.
 
 #### Sales Report
 <p align="center"><img src="./img/employee/sales_report1.jpg" alt="App Screenshot" style="height:260px; width:auto;"></p>
-<p align="center"><img src="./img/employee/sales_report2.jpg" alt="App Screenshot" style="height:175px; width:auto;"></p>
+<p align="center"><img src="./img/employee/sales_report2.jpg" alt="App Screenshot" style="height:180px; width:auto;"></p>
 
 #### Due Report
-<p align="center"><img src="./img/employee/due_report1.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/employee/due_report1.jpg" alt="App Screenshot" style="height:320x; width:auto;"></p>
 <p align="center"><img src="./img/employee/due_report2.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
 <p align="center"><img src="./img/employee/due_report3.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
 
