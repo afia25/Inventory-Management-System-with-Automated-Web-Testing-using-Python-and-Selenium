@@ -23,11 +23,11 @@ of users: admin, customer and employee.
 <p align="center"><img src="./img/all/chng_pass2.jpg" alt="App Screenshot" style="height:250px; width:auto;"></p>
 
 #### Log Out
-<p align="center"><img src="./img/all/log_out.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/all/log_out.jpg" alt="App Screenshot" style="height:220px; width:auto;"></p>
 <br>
 
 ### Admin
-<p align="center"><img src="./img/admin/admin_work.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
+<p align="center"><img src="./img/admin/admin_work.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
 
 #### Adding New Product Form
 <p align="center"><img src="./img/admin/add_new_product1.jpg" alt="App Screenshot" style="height:150px; width:auto;"></p>
