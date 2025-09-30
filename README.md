@@ -30,7 +30,7 @@ of users: admin, customer and employee.
 
 #### Adding New Product Form
 <p align="center"><img src="./img/admin/add_new_product1.jpg" alt="App Screenshot" style="height:310px; width:auto;"></p>
-<p align="center"><img src="./img/admin/add_new_product2.jpg" alt="App Screenshot" style="height:70px; width:200;"></p>
+<p align="center"><img src="./img/admin/add_new_product2.jpg" alt="App Screenshot" style="height:65px; width:200;"></p>
 
 #### Stock Report
 <p align="center"><img src="./img/admin/stock_report.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
