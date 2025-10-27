@@ -1,12 +1,12 @@
 ## Inventory Management System with Automated Web Testing using Python and Selenium
 This project is an Inventory Management System with Automated Web Testing that streamlines product tracking, stock updates, supplier management, and sales monitoring. 
-The system ensures accuracy and efficiency through real-time inventory control and automated testing to validate core functionalities across workflows. This project has three types 
-of users: admin, customer and employee.
+The system ensures accuracy and efficiency through real-time inventory control and automated testing to validate core functionalities across workflows. This project has three types of users: admin, customer and employee.
 
 ### Final Result of Project
 #### Login Page
 <p align="center"><img src="./img/all/login1.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
 <p align="center"><img src="./img/all/login2.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
+django.contrib.auth is a built-in Django module that handles authentication related functionalities. auth_ views.LoginView is used to display the login form. This form will be shown in the login.html page when the user clicks on the login link.
 
 #### Registration form for new users
 <p align="center"><img src="./img/all/reg1.jpg" alt="App Screenshot" style="height:380px; width:auto;"></p>
@@ -21,10 +21,12 @@ This page updates the user profile. Two forms are here in this page: UserUpdateF
 <p align="center"><img src="./img/all/update_profile.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
 
 #### Change Password
+django.contrib.auth is a built-in Django module that provides authentication functionalities such as login, logout, and password change. auth _views .PasswordChangeView is used to display the password change form and this form will be shown on the pass_change .html page when the user clicks on the 'change password' link. auth_ views .PasswordChangeDoneView is used to display the success message after the password is changed.
 <p align="center"><img src="./img/all/chng_pass1.jpg" alt="App Screenshot" style="height:370px; width:auto;"></p>
 <p align="center"><img src="./img/all/chng_pass2.jpg" alt="App Screenshot" style="height:250px; width:auto;"></p>
 
 #### Log Out
+django.contrib.auth is a built-in Django module that handles authentication functionalities. auth_ views.LogoutView is used to log the user out and it will show a logout message when the user clicks on the logout link.
 <p align="center"><img src="./img/all/log_out.jpg" alt="App Screenshot" style="height:220px; width:auto;"></p>
 
 ### Admin
