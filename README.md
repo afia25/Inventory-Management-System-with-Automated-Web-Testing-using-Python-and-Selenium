@@ -17,6 +17,7 @@ In this registration page, when request.method=="POST", the data submitted throu
 <p align="center"><img src="./img/all/frontpg.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
 
 #### Update Profile
+This page updates the user profile. Two forms are here in this page: UserUpdateForm and ProfileUpdateForm. When the form is submitted, request.method=="POST" checks whether the data is coming from the submitted form. Both forms are validated using is_valid() and then the submitted info are saved into the database. If there is any error, render (request, 'customer/ profileUpdate. html', context) is used to load the profile update page again and display the error.
 <p align="center"><img src="./img/all/update_profile.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
 
 #### Change Password
