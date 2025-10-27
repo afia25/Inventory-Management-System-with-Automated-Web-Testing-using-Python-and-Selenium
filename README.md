@@ -1,6 +1,11 @@
 ## Inventory Management System with Automated Web Testing using Python and Selenium
-This project is an Inventory Management System with Automated Web Testing that streamlines product tracking, stock updates, supplier management, and sales monitoring. 
-The system ensures accuracy and efficiency through real-time inventory control and automated testing to validate core functionalities across workflows. This project has three types of users: admin, customer and employee.
+<small> This project is an Inventory Management System with Automated Web Testing that streamlines product tracking, stock updates, supplier management, and sales monitoring. The system ensures accuracy and efficiency through real-time inventory control and automated testing to validate core functionalities across workflows. This project has three types of users: admin, customer and employee. These are the features of this system for each type of users:
+Customer: Buy products (three categories: clothes, electronics, food), add customer details.
+Employee: Create new invoice, view all invoice list, delete invoice, view sales report, view due report, view out of stock product list. 
+Admin: Add new product, view stock report.
+Every type of user can do registration, login, logout, change Password and update profile. </small> 
+
+Django follows the MVC (Model–View–Controller) pattern. Functionalities of view include displaying webpages, accepting requests from users, rendering webpages, etc. Functionalities of model include storing data in the database, fetching data from the database, deleting data, updating data, etc. The controller accepts the user request from the view. The controller fetches data from the model, and the model gives the requested data to the controller. The controller sends these requested data to the user through the view. The controller renders the requested webpage to the user through the view. In Django, urls.py performs the functionalities of the view of MVC, views.py performs both the functionalities of the view and controller of MVC, and models.py performs the functionalities of the model of MVC. In Django, when a user clicks on a link on a webpage, the system searches for that URL in the urls.py file. In the urls.py file, a function will be present corresponding to that URL. This function will be fully written in a particular views.py file. So, in Django, when a user clicks on a link on a webpage, the system finds that URL in urls.py, goes to its corresponding function (written in views.py), and performs the actions written in that function. 
 
 ### Final Result of Project
 #### Login Page
