@@ -11,6 +11,7 @@ of users: admin, customer and employee.
 #### Registration form for new users
 <p align="center"><img src="./img/all/reg1.jpg" alt="App Screenshot" style="height:380px; width:auto;"></p>
 <p align="center"><img src="./img/all/reg2.jpg" alt="App Screenshot" style="height:151px; width:auto;"></p>
+In this registration page, when request.method=="POST", the data submitted through the form is received. UserRegistrationForm is used to take input from the user and if form. is_ valid() is true, the user information is saved in the database. The user type is also saved in the Usertype model. After that, the user is authenticated using authenticate (username =uname, password =psw) and the user is logged into the system using login (request, new_user), and finally redirected to the home page.
 
 #### Front Page
 <p align="center"><img src="./img/all/frontpg.jpg" alt="App Screenshot" style="height:300px; width:auto;"></p>
